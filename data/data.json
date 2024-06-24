@@ -1,0 +1,143 @@
+[
+     {
+          "batch": "ESAD-61",
+          "round": "61",
+          "title": "Cross platform apps using ASP.NET, Angular and React",
+          "quizzes": [
+               {
+                    "module": "01",
+                    "no": 1,
+                    "date": "24.01.24",
+                    "coverage": "Hardware Concepts to Network Types",
+                    "folder": "M1/CF01"
+               },
+               {
+                    "module": "01",
+                    "no": 2,
+                    "date": "24.01.24",
+                    "coverage": "Data Transfer to virues",
+                    "folder": "M1/CF02"
+               },
+               {
+                    "module": "01",
+                    "no": 3,
+                    "date": "24.01.24",
+                    "coverage": "Windows 10 Foundation",
+                    "folder": "M1/CF03"
+               },
+               {
+                    "module": "01",
+                    "no": 4,
+                    "date": "24.01.24",
+                    "coverage": "The Internet Whole content",
+                    "folder": "M1/CF04"
+               },
+               {
+                    "module": "01",
+                    "no": 5,
+                    "date": "24.01.24",
+                    "coverage": "Prep: Hardware Concepts to Network Types",
+                    "folder": "M1/CF05"
+               },
+               {
+                    "module": "01",
+                    "no": 6,
+                    "date": "24.01.24",
+                    "coverage": "Mock: Upto MS Word",
+                    "folder": "M1/CF06"
+               },
+               {
+                    "module": "01",
+                    "no": 7,
+                    "date": "24.01.24",
+                    "coverage": "Mock: Upto MS Word",
+                    "folder": "M1/CF07"
+               },
+               {
+                    "module": "01",
+                    "no": 8,
+                    "date": "24.01.24",
+                    "coverage": "MS Excel: Whole conent",
+                    "folder": "M1/CF08"
+               },
+               {
+                    "module": "01",
+                    "no": 9,
+                    "date": "24.01.24",
+                    "coverage": "MS Excel: Whole conent",
+                    "folder": "M1/CF09"
+               },
+               {
+                    "module": "01",
+                    "no": 10,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory: Whole syllabus",
+                    "folder": "M1/CF10"
+               },
+               {
+                    "module": "01",
+                    "no": 11,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF11"
+               },
+               {
+                    "module": "01",
+                    "no": 12,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF12"
+               },
+               {
+                    "module": "01",
+                    "no": 13,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF13"
+               },
+               {
+                    "module": "01",
+                    "no": 14,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF14"
+               },
+               {
+                    "module": "01",
+                    "no": 15,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF15"
+               },
+               {
+                    "module": "01",
+                    "no": 16,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF16"
+               },
+               {
+                    "module": "01",
+                    "no": 17,
+                    "date": "24.01.24",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF17"
+               },
+               {"module": "02", "no": 1, "date": "13.02.24", "coverage":"Retrieve data from a single table" , "folder":"M2/SQL01"},
+               {"module": "02", "no": 2, "date": "13.02.24", "coverage":"Retrieve data from two or more tables" , "folder":"M2/SQL02"},
+               {"module": "02", "no": 3, "date": "13.02.24", "coverage":"Summary queries" , "folder":"M2/SQL03"},
+               {"module": "02", "no": 4, "date": "13.02.24", "coverage":"Insert, update and delete data" , "folder":"M2/SQL04"},
+               {"module": "02", "no": 5, "date": "13.02.24", "coverage":"Data types" , "folder":"M2/SQL05"},
+               {"module": "02", "no": 6, "date": "13.02.24", "coverage":"Preparatory: Section 1 to 3" , "folder":"M2/SQLMock01"},
+               {"module": "02", "no": 7, "date": "13.02.24", "coverage":"Preparatory: Section 1 to 3" , "folder":"M2/SQLMock02"},
+               {"module": "02", "no": 8, "date": "13.02.24", "coverage":"Built-in functions" , "folder":"https://forms.office.com/r/C49Gf47Xxn"},
+               {"module": "02", "no": 9, "date": "13.02.24", "coverage":"Database design" , "folder":"https://forms.office.com/r/kgchABYbQw"},
+               {"module": "02", "no": 10, "date": "13.02.24", "coverage":"Create database & tables" , "folder":"M2/SQL10"},
+               {"module": "02", "no": 11, "date": "13.02.24", "coverage":"Work with views" , "folder":"https://forms.gle/FddxUC9ttqmPeBx76"},
+               {"module": "02", "no": 12, "date": "13.02.24", "coverage":"Code scripts" , "folder":"M2/SQL12"},
+               {"module": "02", "no": 13, "date": "13.02.24", "coverage":"Views, Procedures, Functions and Triggers" , "folder":"M2/SQL13"},
+               {"module": "02", "no": 14, "date": "02.03.24", "coverage":"Preparatory: Chapter 09 to 14" , "folder":"M2/SQLMock04"}
+
+          ]
+     }
+]
