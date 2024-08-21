@@ -137,7 +137,8 @@
                {"module": "02", "no": 12, "date": "13.02.24", "coverage":"Code scripts" , "folder":"M2/SQL12"},
                {"module": "02", "no": 13, "date": "13.02.24", "coverage":"Views, Procedures, Functions and Triggers" , "folder":"M2/SQL13"},
                {"module": "02", "no": 14, "date": "02.03.24", "coverage":"Preparatory: Chapter 09 to 14" , "folder":"M2/SQLMock04"},
-               {"module": "02", "no": 15, "date": "02.03.24", "coverage":"Preparatory: Chapter 10 to 15" , "folder":"https://forms.office.com/r/PpYPXTLief"}
+               {"module": "02", "no": 15, "date": "02.03.24", "coverage":"Preparatory: Chapter 10 to 15" , "folder":"https://forms.office.com/r/PpYPXTLief"},
+               {"module": "02", "no": 16, "date": "02.03.24", "coverage":"Preparatory: Chapter 10 to 15" , "folder":"https://forms.office.com/r/fFZKim2RWQ"}
                
           ]
      }
